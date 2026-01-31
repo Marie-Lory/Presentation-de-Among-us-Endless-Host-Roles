@@ -85,7 +85,7 @@ SpeedBooster: Booster de vitesse
 
 Doctor: Médecin
 
-Trapper: Trappeur
+Trapper: Piégeur
 
 Dictator: Dictateur
 
