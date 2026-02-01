@@ -11,9 +11,9 @@ Attention ! les personnes aux pseudos immatures ou déplacés seront automatique
 
 Aufaite il y a aussi des règles à respecter ici, comme le fait de ne pas spammer "Démarrer" ou "Lance" par exemple, car sinon tu es expulsé. Aussi ne soit pas insultant sinon tu es directement expulsé, le but n'est pas d'embêter tout le monde ! En tout cas je te souhaite de passer un bon moment parmi nous ! ;)
 
-Mauvaise nouvelle, Dût a une mise à jour d'Among Us le seul moyen de faire des parties modées en étant nombreux est de faire de la pub dans d'autres lobby (oui c'est de la propagande xD) pour espérer que des personnes viennent ici... (ou alors demander à un streamer son accord car ça peut être très fun pout tout le monde)
+Mauvaise nouvelle, Dût a une mise à jour d'Among Us le seul moyen de faire des parties modées en étant nombreux est de faire de la pub dans d'autres lobby (oui c'est de la propagande xD) pour espérer que des personnes viennent ici... (ou alors demander à un streamer son accord car ça peut être très fun pour tout le monde)
 
-Pour avoir les informations sur votre rôle actuel pendant une partie écrivez /m dans le chat et ne t'inquiète pas car les autres ne verront pas la description de ton rôle. Au faite s'il y a quelque chose que tu ne comprend pas n'hésite pas à me le dire !.
+Pour avoir les informations sur votre rôle actuel pendant une partie écrivez /m dans le chat. Et s'il y a quelque chose que tu ne comprend pas n'hésite pas à me le dire !.
 
 Au niveau des rôles, vous ne devez pas dire votre rôle SAUF si vous êtes : le Vif d'or (à la fin) ou le Shérif.
 
@@ -130,7 +130,7 @@ LastImpostor: Dernier imposteur
 Workhorse: Maître des tâches
 
 
-En ce qui concerne les rôles que j'utiliserais en game il y en a 17 mais seulement 15 maximum pourront être pris en même temps et les voici (et avec leur description) :
+En ce qui concerne les rôles que j'utiliserais en game, il y en a 17 mais seulement 15 maximum pourront être pris en même temps et les voici (et avec leur description) :
 
 PETITE PRECISION, Lorsqu'une personne possèdant un rôle neutre qui peut tuer est éjecté, le jeu affichera qu'il n'est pas imposteur et c'est normal donc pas de panique (de toute façon la confirmation d'éjéction sera désactiver pour éviter cette confusion)
 
