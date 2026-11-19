@@ -1,7 +1,7 @@
-# Pésentation de Among us Town-of-host
+# Pésentation de Among us Endless-Host-Roles
 Voici le fichier READ ME qui contient une présentation du mod et des rôles modés en français.
 
-INFORMATION IMPORTANTE : Pour utiliser le mod SEUL l'hôte du lobby doit avoir le mod et les autres joueurs pourront aussi utiliser le mod juste en rejoignant le lobby tout simplement ! De plus concernant les dossiers téléchargeables, ils contiennent un fichier french.dat qui correspond à la traduction français que j'ai créer pour utiliser le mod en français. Et aussi il y a 3 autres fichiers qui concernent les messages automatiques (le fichier template), la liste des pseudos bannis lorsque qu'un joueur tente de rejoindre le lobby avec l'un de ces pseudos (le fichier DenyName) et la liste des joueurs bannis que vous ne voulez pas voir dans votre lobby (le fichier BanList et ceux sont les ID des joueurs qui sont banni comme ça même si ils changent de pseudo le mod les reconaîtera a coup sûr ! D'ailleur pour ajouter un joueur dans la Banlist il suffit de le bannir normalement directement dans le jeu.)
+INFORMATION IMPORTANTE : Pour utiliser le mod SEUL l'hôte du lobby doit avoir le mod et les autres joueurs pourront aussi utiliser le mod juste en rejoignant le lobby tout simplement ! De plus concernant les dossiers téléchargeables, ils contiennent un fichier french.dat qui correspond à la traduction français que j'ai créer pour utiliser le mod en français. Et aussi il y a d'autres fichiers qui concernent par exemple les messages automatiques (le fichier template), la liste des pseudos bannis lorsque qu'un joueur tente de rejoindre le lobby avec l'un de ces pseudos (le fichier DenyName) et la liste des joueurs bannis que vous ne voulez pas voir dans votre lobby (le fichier BanList et ceux sont les ID des joueurs qui sont banni comme ça même si ils changent de pseudo le mod les reconaîtera a coup sûr ! D'ailleur pour ajouter un joueur dans la Banlist il suffit de le bannir normalement directement dans le jeu.)
 
 Le mod "Town of host" est légal et il provient du site internet de Gitchub (le lien est https://github.com/tukasa0001/TownOfHost) et pour l'installer regarde un tuto sur Youtube pour t'aider (ou les 11 étapes que j'ai élaboré tout en bas). 
 
@@ -15,122 +15,41 @@ Mauvaise nouvelle, Dût a une mise à jour d'Among Us le seul moyen de faire des
 
 Pour avoir les informations sur votre rôle actuel pendant une partie écrivez /m dans le chat. Et s'il y a quelque chose que tu ne comprend pas n'hésite pas à me le dire !.
 
-Au niveau des rôles, vous ne devez pas dire votre rôle SAUF si vous êtes : le Vif d'or (à la fin) ou le Shérif.
+Liste des rôles EHR pour les novices :
+Imposteur :
+1 - Anti-Adminer
+2 - Traqueur Maléfique
+3 - Bombardier
+4 - Echangeur
+5 - Téléporteur Maléfique
+6 - Furtif
+7 - Mineur
+8 - Retardateur
+9 - Evadé
 
-Voici la liste des rôles du mod ( à gauche c'est leur nom en anglais et à droite leur nom français)
+Coéquipier :
+1 - Aspirateur
+2 - Caméraman
+3 - Cauchemar Nocturne
+5 - Esquiveur
+6 - Localisateur
+7 - Superstar
+8 - Taupe
+9 - Téléporteur
+10 - Capitaine
+11 - Clairvoyant
+12 - Druide
+13 - Garde-Métamorphe
+14 - Médecin Légiste
+15 - Pisteur
+16 - Sondeur
+17 - Trappeur
+18 - Télécommunicateur
+19 - Eclaireur
+20 - Assistant
+21 - Maître du sabotage
 
-Shapeshifter: Métamorphe
-
-BountyHunter: Chasseur de primes
-
-Mare: Tueur de l'ombre
-
-FireWorks: Artificier
-
-SerialKiller: Tueur en série
-
-ShapeMaster: Maître de la métamorphose
-
-Vampire: Vampire
-
-Warlock: Démoniste
-
-Witch: Sorcière
-
-Mafia: Mafia
-
-Puppeteer: Marionnettiste
-
-TimeThief: Voleur de temps
-
-Sniper: Tireur d'élite
-
-EvilTracker: Traqueur maléfique
-
-Stealth: Ninja
-
-NekoKabocha: Neko-Kabocha
-
-EvilHacker: Hacker maléfique
-
-Penguin: Penguin
-
-Insider: L'informé maléfique
-
-Madmate: Fou
-
-MadGuardian: Gardien fou
-
-MadSnitch: Vif d'or fou
-
-SKMadmate: Compagnon fou
-
-Watcher: Observateur
-
-Bait: Appât
-
-Lighter: Lumière
-
-Mayor: Maire
-
-SabotageMaster: Maître du sabotage
-
-Sheriff: Shérif
-
-Arsonist: Pyroman
-
-Snitch: Vif d'or
-
-SpeedBooster: Booster de vitesse
-
-Doctor: Médecin
-
-Trapper: Piégeur
-
-Dictator: Dictateur
-
-Seer: Voyant
-
-TimeManager: Gestionnaire de temps
-
-Jester: Bouffon
-
-Terrorist: Terroriste
-
-Executioner: Bourreau
-
-SchrodingerCat: Chat de Schrödinger
-
-CSchrodingerCat: Chat de Schrödinger coéquipier
-
-MSchrodingerCat: Chat de Schrödinger imposteur
-
-EgoSchrodingerCat: Chat de Schrödinger égoïste
-
-JSchrodingerCat: Chat de Schrödinger chacal
-
-Opportunist: Opportuniste
-
-Egoist: Égoïste
-
-Lovers: Amoureux
-
-Jackal: Chacal
-
-PlagueDoctor: Le malade
-
-HASFox: Renard
-
-HASTroll: Troll
-
-GM: Maître du jeu
-
-LastImpostor: Dernier imposteur
-
-Workhorse: Maître des tâches
-
-
-En ce qui concerne les rôles que j'utiliserais en game, il y en a 17 mais seulement 15 maximum pourront être pris en même temps et les voici (et avec leur description) :
+En ce qui concerne les rôles que j'utiliserais en game, il y en a 30 mais seulement 15 maximum pourront être pris en même temps et les voici (et avec leur description) :
 
 PETITE PRECISION, Lorsqu'une personne possèdant un rôle neutre qui peut tuer est éjecté, le jeu affichera qu'il n'est pas imposteur et c'est normal donc pas de panique (de toute façon la confirmation d'éjéction sera désactiver pour éviter cette confusion)
 
@@ -140,45 +59,85 @@ Maître du jeu : Le Maître du jeu (GM en abréviation anglaise) est un spectate
 
 ROLES IMPOSTEUR :
 
-Chasseur de prime : Si vous tuez la cible indiquée, votre prochain temps de recharge sera considérablement réduit. Si vous tuez quelqu'un d'autre que votre cible, votre prochain temps de recharge augmentera énormément. La cible change au bout de 60 secondes.
+1 - Anti-Adminer : L'Anti-Adminer peut détecter les Coéquipiers ou les Neutres à proximité d'appareils comme les caméras, la table Admin, les signes vitaux, le journal des portes, etc. Notez que vous ne pouvez pas savoir si le joueur utilise l'appareil, mais seulement que quelqu'un se trouve à proximité.\n\nSelon un paramètre, vous pouvez avoir une capacité supplémentaire : vous pouvez vous Disparaitre pour avertir chaque joueur utilisant un appareil de le quitter. Ils ont quelques secondes pour s'éloigner des appareils, sinon ils moureront.
 
-Ninja : Lorsque le ninja tue, tous les joueurs dans la même pièce sont aveuglés pendant un court instant.
+2 - Traqueur Maléfique : Le Traqueur Maléfique peut traquer une cible et se métamorphoser pour changer de cible, mais il reprend immédiatement sa forme ensuite. La flèche sous son nom indique la direction de la cible. Il voit un flash de meurtre quand son coéquipier tue.
 
-L'informé maléfique: Lorsque que vous tuer une personne, vous pouvez connaître le rôle qu'il avait lors de la prochaine réunion sur sa bannière de joueur mort et donc vous saurez si vous avez tué une personne avec un rôle important tel que le Shérif, le Maire, le Vif d'or ou le Chacal par exemple.
+3 - Bombardier : Le Bombardier peut utiliser le bouton Disparaître/ pour exploser, tuant les joueurs à une certaine portée. Mais à un prix, le Bombardier va aussi mourir. Note : Tous les joueurs verront un flash quand le Bombardier explosera.
+BomberCooldownsResetEachOther:Remise à zéro du temps de recharge pour tuer ET du temps de recharge des bombes chaque fois que vous les utilisez.
 
-Hackeur Maléfique : Lors des réunions, vous pouvez obtenir des informations a propos de la position de vos collègues imposteurs, le lieu et le nombre de cadavre tué (marqué avec le symbole ★) de plus vous pourrez voir un kill flash rouge qui vous avertirera qu'un meurtre a eu lieu.
+4 - Echangeur : 
+
+5 - Téléporteur Maléfique : 
+
+6 - Furtif : 
+
+7 - Mineur : 
+
+8 - Retardateur : 
+
+9 - Evadé : 
 
 
 ROLES COEQUIPIER :
 
-Appât : Lorsque vous êtes tué, vous forcez votre tueur à se signaler immédiatement.
+1 - Aspirateur :
 
-Lumière : Une fois que vous aurez terminé toutes vos tâches, vous pourrez mieux voir dans le noir.
+2 - Caméraman :
 
-Maître du sabotage : Vous pouvez réparer vous-même les réacteurs, l'O2 et les communications. Les lumières peuvent être réparées d'une simple pression sur un interrupteur. L'ouverture d'une porte (sur Polus, Airship et Fungle) ouvrira toutes les portes de la pièce.
+3 - Cauchemar Nocturne :
 
-Booster de vitesse: Une fois que vous avez terminé vos tâches, vous receverez un boost de vitesse impressionant.
+5 - Esquiveur :
 
-Trappeur: Lorsque vous êtes tué, vous immobilisez votre tueur pendant un court instant.
+6 - Localisateur :
 
-Voyant : Chaque fois que quelqu'un meurt, vous verrez un "kill flash" rouge.
+7 - Superstar :
 
-Maire : Vous avez plusieurs votes, qui iront tous à la personne que vous votez ou ignorez et en plus si vous allez dans un conduit cela activera une réunion d'urgence si les paramètres vous le permet (par defaut ça ne sera pas le cas pour éviter de faire une réunion d'ugrence par accident mdr).
+8 - Taupe :
 
-Vif d'or : Une fois que vous avez terminé toutes vos tâches, les noms des imposteurs vous seront affichés en couleur. Lorsqu'il ne vous reste plus qu'une tâche, une marque ★ s'affichera à côté de votre nom et vous serez exposés aux imposteurs et ils pourront vous traquer donc il faudra agir vite ! Vous devrez les dénoncés et pour vous aider, vous pouvez dire aux autres coéquipiers que vous êtes le Vif d'or.
+9 - Téléporteur :
+
+10 - Capitaine :
+
+11 - Clairvoyant :
+
+12 - Druide :
+
+13 - Garde-Métamorphe :
+
+14 - Médecin Légiste :
+
+15 - Pisteur :
+
+16 - Sondeur :
+
+17 - Trappeur :
+
+18 - Télécommunicateur :
+
+19 - Eclaireur :
+
+20 - Assistant :
+
+21 - Maître du sabotage :
 
 
 ROLES NEUTRE :
+1 - Avocat :
 
-Pyroman : Lorsque vous utilisez le bouton Tuer, vous arrosez votre cible d'essence. Après avoir arrosé tous les joueurs vivants avec la marque ▲ en restant bien coller à votre cible pour avoir le triangle orange remplit, vous pourrez mettre tout le monde en feu et gagner en allant dans un conduit par contre avant tout cela vous ne pourez pas aller dans un conduit. Attention s'il n'y a plus d'imposteur en vie à part vous, vous perdrez directement donc agissez vite !
+2 - Coureur de zone :
 
-Opportuniste : Tant que vous êtes en vie jusqu'à la fin de la partie, vous gagnerez aux côtés du vainqueur.
+3 - Ectoplasme :
 
-Terroriste : Vous gagnez en solo en vous faisant tuer APRÈS avoir terminé toutes vos tâches. Se faire éjecter compte aussi comme tué. Vous êtes aussi un ingénieur.
+4 - Facteur :
 
-Chackal : Le Chacal doit tuer tous les coéquipiers, imposteurs et neutres. Le Chacal gagne si tout le monde a été tué et qu'il soit le dernier en vie.
+5 - Investisseur :
 
-Le Malade : Votre but est d’infecter tous les joueurs vivants en appuyant sur le bouton "Tuer" et en restant coller à eux pendant 3 secondes, la première personne que vous infecterez sera tuer et dès qu'une personne s'approchera du corps elle sera aussi infectée de plus elle pourra aussi infecter d'autre personne en s'approchant tout près d'eux pendant 3 secondes. Et aussi si quelqu'un vous tue vous l'infecterez automatiquement (par contre si vous êtes éjecter vous n'infecterez personne).  Attention, vous ne pouvez infectez seulement que 3 personnes maximun par vous-même ! Vous gagner la partie lorsque que toutes les personnes vivantes sont infectées.
+6 - Opportuniste :
+
+7 - Suiveur : Le Suiveur peut commencer à suivre quelqu'un en utilisant son bouton de mise à mort, et changer de cible en l'utilisant à nouveau. Si la cible du Suiveur gagne, le Suiveur gagne aussi. Il peut même gagner après sa mort.
+
+8 - Pyromane :
 
 
 
