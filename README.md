@@ -11,47 +11,47 @@ Mauvaise nouvelle, Dût a une mise à jour d'Among Us le seul moyen de faire des
 
 Liste des rôles EHR pour les novices :
 Imposteur :
-1 - Anti-Adminer
-2 - Traqueur Maléfique
-3 - Bombardier
-4 - Echangeur
-5 - Téléporteur Maléfique
-6 - Furtif
-7 - Mineur
-8 - Retardateur
-9 - Evadé
+1 - Anti-Adminer,
+2 - Traqueur Maléfique,
+3 - Bombardier,
+4 - Echangeur,
+5 - Téléporteur Maléfique,
+6 - Furtif,
+7 - Mineur,
+8 - Retardateur et
+9 - Evadé.
 
 Coéquipier :
-1 - Aspirateur
-2 - Caméraman
-3 - Cauchemar Nocturne
-5 - Esquiveur
-6 - Localisateur
-7 - Superstar
-8 - Taupe
-9 - Téléporteur
-10 - Capitaine
-11 - Clairvoyant
-12 - Druide
-13 - Garde-Métamorphe
-14 - Médecin Légiste
-15 - Pisteur
-16 - Sondeur
-17 - Trappeur
-18 - Télécommunicateur
-19 - Eclaireur
-20 - Assistant
-21 - Maître du sabotage
+1 - Aspirateur,
+2 - Caméraman,
+3 - Cauchemar Nocturne,
+5 - Esquiveur,
+6 - Localisateur,
+7 - Superstar,
+8 - Taupe,
+9 - Téléporteur,
+10 - Capitaine,
+11 - Clairvoyant,
+12 - Druide,
+13 - Garde-Métamorphe,
+14 - Médecin Légiste,
+15 - Pisteur,
+16 - Sondeur,
+17 - Trappeur,
+18 - Télécommunicateur,
+19 - Eclaireur,
+20 - Assistant et
+21 - Maître du sabotage.
 
 Neutre :
-1 - Avocat
-2 - Coureur de zone
-3 - Ectoplasme
-4 - Facteur
-5 - Investisseur
-6 - Opportuniste
-7 - Suiveur 
-8 - Pyromane
+1 - Avocat,
+2 - Coureur de zone,
+3 - Ectoplasme,
+4 - Facteur,
+5 - Investisseur,
+6 - Opportuniste,
+7 - Suiveur et
+8 - Pyromane.
 
 
 En ce qui concerne les rôles que j'utiliserais en game, il y en a 38 mais seulement 15 maximum pourront être pris en même temps et les voici (et avec leur description) :
