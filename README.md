@@ -27,21 +27,22 @@ Coéquipier :
 3 - Cauchemar Nocturne,
 5 - Esquiveur,
 6 - Localisateur,
-7 - Superstar,
-8 - Taupe,
-9 - Téléporteur,
-10 - Capitaine,
-11 - Clairvoyant,
-12 - Druide,
-13 - Garde-Métamorphe,
-14 - Médecin Légiste,
-15 - Pisteur,
-16 - Sondeur,
-17 - Trappeur,
-18 - Télécommunicateur,
-19 - Eclaireur,
-20 - Assistant et
-21 - Maître du sabotage.
+7- Sonic the hedgehog
+8 - Superstar
+9 - Taupe
+10 - Téléporteur,
+11 - Capitaine,
+12 - Clairvoyant,
+13 - Druide,
+14 - Garde-Métamorphe,
+15 - Médecin Légiste,
+16 - Pisteur,
+17 - Sondeur,
+18 - Trappeur,
+19 - Télécommunicateur,
+20 - Eclaireur,
+21 - Assistant et
+22 - Maître du sabotage.
 
 Neutre :
 1 - Avocat,
@@ -54,7 +55,7 @@ Neutre :
 8 - Pyromane.
 
 
-En ce qui concerne les rôles que j'utiliserais en game, il y en a 38 mais seulement 15 maximum pourront être pris en même temps et les voici (et avec leur description) :
+En ce qui concerne les rôles que j'utiliserais en game, il y en a 39 mais seulement 15 maximum pourront être pris en même temps et les voici (et avec leur description) :
 
 PETITE PRECISION, Lorsqu'une personne possèdant un rôle neutre qui peut tuer est éjecté, le jeu affichera qu'il n'est pas imposteur et c'est normal donc pas de panique (de toute façon la confirmation d'éjéction sera désactiver pour éviter cette confusion)
 
@@ -96,35 +97,37 @@ ROLES COEQUIPIER :
 
 6 - Localisateur : En tant que Localisateur, vous avez accès aux signes vitaux, un peu comme un Scientifique. De plus, vous obtenez des flèches pointant vers les cadavres.
 
-7 - Superstar : La Superstar a une étoile à côté de son nom et ne peut être tué que lorsque le Meurtrier est seul avec la Superstar.
+7 - Sonic the hedgehog : En tant que le hérisson le plus rapide du multivers, vous obtenez un petit bonus de vitesse temporaire après chaque Tâche terminée.
 
-8 - Taupe : En tant que Taupe, lorsque vous utilisez un conduit, vous en êtes éjecté et téléporté vers un conduit aléatoire de la carte.
+8 - Superstar : La Superstar a une étoile à côté de son nom et ne peut être tué que lorsque le Meurtrier est seul avec la Superstar.
 
-9 - Téléporteur : En tant que Téléporteur, quand vous terminez une tâche, vous vous téléportez vers le joueur le plus proche (c'est inutile mais c'est marrant).
+9 - Taupe : En tant que Taupe, lorsque vous utilisez un conduit, vous en êtes éjecté et téléporté vers un conduit aléatoire de la carte.
 
-10 - Capitaine : En tant que Capitaine, vous voyez toujours qui est dans la même pièce que vous. De plus, si vous jugez quelqu'un, il sera Suivi, et vous obtiendrez une liste des pièces où il est entré (dans l'ordre) lors de la Réunion suivante.
+10 - Téléporteur : En tant que Téléporteur, quand vous terminez une tâche, vous vous téléportez vers le joueur le plus proche (c'est inutile mais c'est marrant).
 
-11 - Clairvoyant : En tant que Clairvoyant, vous pouvez voir le nombre d'imposteurs restants et de tueurs neutres en entrant dans un Conduit.
+11 - Capitaine : En tant que Capitaine, vous voyez toujours qui est dans la même pièce que vous. De plus, si vous jugez quelqu'un, il sera Suivi, et vous obtiendrez une liste des pièces où il est entré (dans l'ordre) lors de la Réunion suivante.
 
-12 - Druide : En tant que Druide, vous pouvez utiliser un conduit et, après un délai, cela place un déclencheur là où vous vous trouvez. Si un joueur passe près de votre déclencheur, vous serez averti.\nPlacez vos déclencheurs là où seuls les imposteurs passent, et attrapez-les !
+12 - Clairvoyant : En tant que Clairvoyant, vous pouvez voir le nombre d'imposteurs restants et de tueurs neutres en entrant dans un Conduit.
 
-13 - Garde-Métamorphe : En tant que Garde-Métamorphe, quand quelqu'un se métamorphose ou reprend sa forme, vous êtes averti.
+13 - Druide : En tant que Druide, vous pouvez utiliser un conduit et, après un délai, cela place un déclencheur là où vous vous trouvez. Si un joueur passe près de votre déclencheur, vous serez averti.\nPlacez vos déclencheurs là où seuls les imposteurs passent, et attrapez-les !
 
-14 - Médecin Légiste : Après avoir signalé le corps, le Médecin Légiste connait le rôle du meurtrier.
+14 - Garde-Métamorphe : En tant que Garde-Métamorphe, quand quelqu'un se métamorphose ou reprend sa forme, vous êtes averti.
 
-15 - Pisteur : En tant que Pisteur, vous pouvez juger (pour de faux) un joueur pendant une réunion, ce qui marquera sa position pour vous dans la partie avec des flèches. De plus, au début d'une réunion, si l'option est activée, la pièce dans laquelle se trouvait le joueur en dernier vous sera indiquée.
+15 - Médecin Légiste : Après avoir signalé le corps, le Médecin Légiste connait le rôle du meurtrier.
 
-16 - Sondeur : En tant que Sondeur, chaque fois que quelqu'un fait sabotage, vous obtenez une flèche temporaire pointant vers lui.
+16 - Pisteur : En tant que Pisteur, vous pouvez juger (pour de faux) un joueur pendant une réunion, ce qui marquera sa position pour vous dans la partie avec des flèches. De plus, au début d'une réunion, si l'option est activée, la pièce dans laquelle se trouvait le joueur en dernier vous sera indiquée.
 
-17 - Trappeur : En tant que Trappeur, vous pouvez placer des pièges en utilisant un conduit. Quand un joueur marche sur un piège, son rôle sera enregistré. Lors de la prochaine réunion, vous recevrez un message sur la liste des rôles pris dans votre piège.
+17 - Sondeur : En tant que Sondeur, chaque fois que quelqu'un fait sabotage, vous obtenez une flèche temporaire pointant vers lui.
 
-18 - Télécommunicateur : En tant que Télécommunicateur, vous êtes averti quand quelqu'un utilise les caméras, les signes vitaux, le journal des portes de Mirahq, l'admin ou les jumelles.
+18 - Trappeur : En tant que Trappeur, vous pouvez placer des pièges en utilisant un conduit. Quand un joueur marche sur un piège, son rôle sera enregistré. Lors de la prochaine réunion, vous recevrez un message sur la liste des rôles pris dans votre piège.
 
-19 - Eclaireur : En tant qu'Éclaireur, vous pouvez utiliser un conduit pour augmenter temporairement votre vision. Votre vision est augmentée aussi bien quand les lumières sont éteintes. Utilisez ce pouvoir pour attraper les tueurs sournois !
+19 - Télécommunicateur : En tant que Télécommunicateur, vous êtes averti quand quelqu'un utilise les caméras, les signes vitaux, le journal des portes de Mirahq, l'admin ou les jumelles.
 
-20 - Assistant : En tant qu'Assistant, chaque fois que vous accomplissez une tâche en étant mort, un Coéquipier aléatoire aura également une de ses tâches accomplies.
+20 - Eclaireur : En tant qu'Éclaireur, vous pouvez utiliser un conduit pour augmenter temporairement votre vision. Votre vision est augmentée aussi bien quand les lumières sont éteintes. Utilisez ce pouvoir pour attraper les tueurs sournois !
 
-21 - Maître du sabotage : Le Maître du sabotage peut utiliser les Conduits à tout moment. Il peut réparer les Réacteurs et O2 seul ; les Communications sans devoir les régler ; il peut aussi réparer les Lumières avec un seul levier. S'il ouvre une porte, toues les autres s'ouvriront aussi.
+21 - Assistant : En tant qu'Assistant, chaque fois que vous accomplissez une tâche en étant mort, un Coéquipier aléatoire aura également une de ses tâches accomplies.
+
+22 - Maître du sabotage : Le Maître du sabotage peut utiliser les Conduits à tout moment. Il peut réparer les Réacteurs et O2 seul ; les Communications sans devoir les régler ; il peut aussi réparer les Lumières avec un seul levier. S'il ouvre une porte, toues les autres s'ouvriront aussi.
 
 
 ROLES NEUTRE :
