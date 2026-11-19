@@ -43,7 +43,18 @@ Coéquipier :
 20 - Assistant
 21 - Maître du sabotage
 
-En ce qui concerne les rôles que j'utiliserais en game, il y en a 30 mais seulement 15 maximum pourront être pris en même temps et les voici (et avec leur description) :
+Neutre :
+1 - Avocat
+2 - Coureur de zone
+3 - Ectoplasme
+4 - Facteur
+5 - Investisseur
+6 - Opportuniste
+7 - Suiveur 
+8 - Pyromane
+
+
+En ce qui concerne les rôles que j'utiliserais en game, il y en a 38 mais seulement 15 maximum pourront être pris en même temps et les voici (et avec leur description) :
 
 PETITE PRECISION, Lorsqu'une personne possèdant un rôle neutre qui peut tuer est éjecté, le jeu affichera qu'il n'est pas imposteur et c'est normal donc pas de panique (de toute façon la confirmation d'éjéction sera désactiver pour éviter cette confusion)
 
