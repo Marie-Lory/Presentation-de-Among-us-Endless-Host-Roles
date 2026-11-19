@@ -3,17 +3,11 @@ Voici le fichier READ ME qui contient une présentation du mod et des rôles mod
 
 INFORMATION IMPORTANTE : Pour utiliser le mod SEUL l'hôte du lobby doit avoir le mod et les autres joueurs pourront aussi utiliser le mod juste en rejoignant le lobby tout simplement ! De plus concernant les dossiers téléchargeables, ils contiennent un fichier french.dat qui correspond à la traduction français que j'ai créer pour utiliser le mod en français. Et aussi il y a d'autres fichiers qui concernent par exemple les messages automatiques (le fichier template), la liste des pseudos bannis lorsque qu'un joueur tente de rejoindre le lobby avec l'un de ces pseudos (le fichier DenyName) et la liste des joueurs bannis que vous ne voulez pas voir dans votre lobby (le fichier BanList et ceux sont les ID des joueurs qui sont banni comme ça même si ils changent de pseudo le mod les reconaîtera a coup sûr ! D'ailleur pour ajouter un joueur dans la Banlist il suffit de le bannir normalement directement dans le jeu.)
 
-Le mod "Town of host" est légal et il provient du site internet de Gitchub (le lien est https://github.com/tukasa0001/TownOfHost) et pour l'installer regarde un tuto sur Youtube pour t'aider (ou les 11 étapes que j'ai élaboré tout en bas). 
+Le mod "Endless Host Roles" est légal et il provient du site internet de Gitchub (le lien est https://github.com/Gurge44/EndlessHostRoles) et pour l'installer regarde un tuto sur Youtube pour t'aider (ou les 11 étapes que j'ai listé tout en bas). 
 
 Ce mod rajoute des tas de nouveaux rôles pour améliorer le jeu, donc si tu a des questions n'hésite pas !
 
-Attention ! les personnes aux pseudos immatures ou déplacés seront automatiquement explusés au bout d'un moment et pour pouvoir revenir dans le lobby du jeu il faudra changer votre pseudo !
-
-Aufaite il y a aussi des règles à respecter ici, comme le fait de ne pas spammer "Démarrer" ou "Lance" par exemple, car sinon tu es expulsé. Aussi ne soit pas insultant sinon tu es directement expulsé, le but n'est pas d'embêter tout le monde ! En tout cas je te souhaite de passer un bon moment parmi nous ! ;)
-
 Mauvaise nouvelle, Dût a une mise à jour d'Among Us le seul moyen de faire des parties modées en étant nombreux est de faire de la pub dans d'autres lobby (oui c'est de la propagande xD) pour espérer que des personnes viennent ici... (ou alors demander à un streamer son accord car ça peut être très fun pour tout le monde)
-
-Pour avoir les informations sur votre rôle actuel pendant une partie écrivez /m dans le chat. Et s'il y a quelque chose que tu ne comprend pas n'hésite pas à me le dire !.
 
 Liste des rôles EHR pour les novices :
 Imposteur :
