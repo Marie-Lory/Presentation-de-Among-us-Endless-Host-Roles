@@ -1,0 +1,75 @@
+welcome:<b>Bienvenue !</b>
+
+\n<size=80%>Ceci est un lobby <color=red>moddé</color>.
+
+\nVous jouez à <b><color=blue>Endless Host Roles</color> <color=purple>(EHR)</color> <color=orange>v{{ModVersion}}</b></color>.
+
+\nLe mod a été créé par <color=yellow>Gurge44</color>.\n
+
+\n<b>/r</b> → Affiche tous les rôles actifs / la description du mode de jeu actuel
+
+\n<b>/r <color=red>[nom du rôle]</color></b> → Affiche la description et les paramètres de ce rôle
+
+welcome:<color=red><b>Attention !</b></color> Les personnes aux pseudos immatures ou déplacés seront automatiquement expulsés au bout d'un moment et pour pouvoir revenir dans ce lobby il faudra changer votre pseudo !
+
+OnMeeting:<size=70%><b>/cmd m</b> → Voir ce que fait votre rôle\n<b>/cmd r</b> → Afficher tous les rôles actifs
+
+\n<b>/cmd r <color=#ff0000>[nom du rôle]</color></b> → Afficher la description et les paramètres de ce rôle
+
+\n<b>/cmd guess <color=#0000ff>[ID]</color> <color=#ff0000>[nom du rôle]</color></b> → Deviner le rôle de ce joueur</size>
+
+help:<size=110%><b><color=#ffc0cb>ENDLESS HOST ROLES</color>\nGUIDE RAPIDE<size=50%>
+
+\n<size=30%>Prenez des notes, la classe.\n\n<size=80%>EHR est un mod assez compliqué, mais pas d'inquiétude ! Je suis là pour vous apprendre toutes les bases du jeu pour que vous deveniez le meilleur joueur qui soit ! Pour commencer, parlons de l'élément le plus essentiel du mod...\n
+
+\n<size=100%><color=#4dff00>LES RÔLES</color>
+
+\n<size=80%></b>Chaque joueur reçoit un rôle au début de la partie. Il existe 4 types de rôles. <b><color=#ff1919>Imposteur</color>, <color=#8cffff>Coéquipier</color>, <color=#ffab1b>Neutre</color> et <color=#ff9ace>Add-ons</color></b><size=70%>.\n
+
+\n<size=80%><b><color=#ff1919>Imposteurs</color> et <color=#8cffff>Coéquipiers</b>
+
+\n<size=60%></color>Ça parle de soi-même. Ces rôles sont attribués aux imposteurs ou aux coéquipiers.\n
+
+\n<b><size=80%><color=#ffab1b>Neutres</color></b>
+
+\n<size=60%><b>Ce n'est pas une équipe. Ces rôles regroupent tous les rôles qui ne sont ni du côté des imposteurs ni de celui des coéquipiers.</b> En général, ils travaillent seuls vers un objectif qui dépend de ce que fait leur rôle. Cet objectif peut aller de faire éjecter leur cible par vote pour gagner seul, à tuer tout le monde dans la partie, en passant par simplement rester en vie jusqu'à la fin pour gagner avec l'équipe gagnante, et plus encore.\n
+
+\n<size=80%><b><color=#ff9ace>Add-ons</color><size=60%>
+
+\nLes add-ons sont des rôles que vous pouvez obtenir en plus du rôle de votre équipe.</b> En général, ils apportent de petits avantages, comme faire en sorte que votre tueur signale automatiquement votre corps, vous montrer un flash rouge quand quelqu'un meurt, et plus encore. Certains sont même des ajouts majeurs, comme pouvoir tuer des gens après votre mort. <b>Mais méfiez-vous, car vous pouvez recevoir un add-on nuisible !</b> Ces rôles peuvent vous donner une vision réduite, vous empêcher de signaler des corps, vous empêcher de réparer les sabotages, et plus encore. <b>Retenez que la plupart des add-ons (pas tous) ne sont pas propres à une équipe</b>, et peuvent être attribués à n'importe qui, sauf si l'hôte choisit individuellement quels rôles vont avec quoi.\n
+
+\n<size=85%><b>Il est important de se rappeler que personne ne doit révéler son rôle sans raison <size=75%>(ex. : le Cafteur qui termine ses tâches pour démasquer les imposteurs)\n
+
+\n<size=100%><color=#204d42>COMMANDES DU CHAT
+
+\n<size=80%></b>Les commandes du chat</color> sont un atout très utile, et chacune a son propre effet très pratique. Vous trouverez ci-dessous des exemples de commandes de réunion <b>vvvv\n
+
+\n<size=73%>/m :</b> Explique en détail votre rôle et votre ou vos add-ons. <b>À UTILISER ABSOLUMENT</b> si vous ne savez pas ce que fait votre rôle.
+
+\n<b>/r [nom du rôle] :</b> Montre ce que fait n'importe quel rôle du jeu. Tapez simplement le nom du rôle. Taper /r seul affiche tous les rôles activés dans les paramètres de l'hôte.
+
+\n<b>/kcount (peut être désactivé par l'hôte) :</b> Affiche le nombre d'imposteurs et de Neutres tueurs restants.
+
+\n<b>/l (pas i, mais L) :</b> Utilisé dans le salon pour afficher les résultats de la partie précédente. Montre qui est mort et par qui, les rôles de chacun et qui a gagné la dernière partie. En général, les hôtes font apparaître ce message automatiquement à la fin de la manche.\n
+
+\n<size=100%><b><color=#f8cd46>DEVINER<size=80%></b>
+
+\nDeviner</color>, ou ses variantes, est une capacité que seuls quelques rôles peuvent utiliser. En général, il s'agit de <b>deviner le rôle d'un joueur</b> pour le tuer pendant une réunion, ou pour obtenir d'autres effets. Parfois, les hôtes permettent à des équipes entières, voire à tous les joueurs, de deviner.\n
+
+\n<size=90%><b>COMMENT <color=#f8cd46>DEVINER</color>
+
+\n<size=60%></b>Ce guide montre la façon la plus courante de deviner, avec la commande /bt.\n
+
+\n<size=80%><b>N°1. Découvrez le rôle du joueur
+
+\n<size=60%></b>Avant de pouvoir deviner, vous devez découvrir quel est son rôle. Une fois son rôle trouvé, vous pouvez le deviner à la réunion suivante. Par exemple, je sais que Bleu est le Cafteur, je passe donc à l'étape 2...\n
+
+\n<size=80%><b>N°2. Tapez /id
+
+\n<size=60%></b>Taper /id affiche la liste de tous les joueurs avec leur ID, représenté par un nombre de 1 à 15. Je tape /id et l'ID de Bleu est 7. Parfois, vous pouvez déjà voir les ID de tous les joueurs sans avoir à taper cette commande. Maintenant, il ne reste plus qu'à...\n
+
+\n<b><size=80%>N°3. Tapez /bt [ID du joueur] [rôle]
+
+\n<size=60%></b>Dans mon cas, ce serait /bt 7 snitch. Si j'ai raison, j'ai tué Bleu, qui va maintenant devoir se morfondre dans sa honte en tant que fantôme. Bien triste. Mais si je me trompe, c'est moi qui meurs et qui dois me morfondre dans ma honte. Quelle gêne.\n
+
+\n<size=80%><b>Vous savez maintenant l'essentiel sur EHR. À vous de jouer et de gagner des parties !

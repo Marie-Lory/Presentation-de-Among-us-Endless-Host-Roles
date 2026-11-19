@@ -1,0 +1,6 @@
+{
+  "Vip": false,
+  "Moderator": false,
+  "Admin": false,
+  "Tag": ""
+}
